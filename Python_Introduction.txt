@@ -1,0 +1,52 @@
+Python : 
+
+python is General purpose high level programming language.
+
+Python is an interpreted, object-oriented programming language 
+that has gained popularity because of its clear syntax and readability
+
+Note: Python is case Sensitive
+
+
+History of Python :
+
+Founder : 
+       
+	Guido van Rossum at Netherland in 1991 and published in 1991 Feb 20 th
+
+Version history
+• Python 1x - 1991
+• Python 2x - (2000 - Jan 1, 2020)
+• Python 3x (Py3K) – 2008
+
+
+Features : 
+
+	Easy And Simple
+
+	Open Source(Free of Cost)
+
+	High Level Programming Language
+
+	Platform Independent
+
+	Portable(Write once run anywhere)
+
+	Interpreter
+
+
+How To Check Python Is Installed Or Not : 
+
+	Windows+r --->Run----->cmd ---->python
+
+
+
+IDE--->(Integrated Development Environment):
+Pycharm
+.py
+
+
+
+
+
+
